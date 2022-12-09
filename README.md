@@ -15,7 +15,7 @@ source venv/Scripts/activate
 Склонировать репозиторий с GitLab:
 
 ````
-git clone https://gitlab.com/Piramind/test_fabric.git
+git clone https://github.com/DalaevBC/mailing_api_test.git
 ````
 
 Установка зависимостей:
